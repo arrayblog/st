@@ -1,0 +1,17 @@
+.git/
+patches/
+arg.h
+config.def.h
+st.h
+win.h
+st.c
+x.c
+FAQ
+LEGACY
+LICENSE
+Makefile
+README
+TODO
+config.mk
+st.1
+st.info
